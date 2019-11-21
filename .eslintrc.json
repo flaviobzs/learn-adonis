@@ -1,0 +1,6 @@
+{
+  "extends": "standart",
+  "globals": {
+    "use": true
+  }
+}
